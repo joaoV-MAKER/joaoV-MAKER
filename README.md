@@ -1,5 +1,5 @@
 <h2 align="left">Welo Wordf</h2>
-![Hello World](https://img.shields.io/badge/🌎-Hello%20World-blue?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/Hello%20World-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
 ###
